@@ -1,6 +1,6 @@
 # Oryantasyon-dersi-java-ornekleri
 ### 💫 About Me:
-I am a software engineering student at Fırat University, Faculty of Technology.<br>I am developing myself in Java language.
+I am a software engineering student at Fırat University, Faculty of Technology.<br>I develop myself in software.
 
 
 ## 🌐 Socials:
